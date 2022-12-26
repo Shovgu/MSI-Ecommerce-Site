@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "MSI GK50",
+      "desc": "Armed with Kailh Low Profile mechanical switches",
+      "price": "150",
+      "img": "https://asset.msi.com/resize/image/global/product/product_16420615993ba39b48719ae53c6866a4c70b126afb.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "keyboards"
+    },
+    {
+      "id": "2",
+      "name": "MSI GK71 SONIC",
+      "desc": "MSI Sonic Red Switches are designed to provide seamless and instantaneous responses",
+      "price": "250",
+      "img": "https://asset.msi.com/resize/image/global/product/product_16415411303a4f3ad1ddc39e1b18dd3904a62e4767.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "keyboards"
+    },
+    {
+      "id": "3",
+      "name": "MSI GK30 WHITE",
+      "desc": "Mechanical-like plunger switches give users ideal typing experience with over 12 million life span",
+      "price": "200",
+      "img": "https://asset.msi.com/resize/image/global/product/product_163937693155ac567b66e5d2dea14391f36dd0099c.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "keyboards"
+    },
+    {
+      "id": "4",
+      "name": "MSI GK20",
+      "desc": "Easily enable access to adjust backlight brightness, media and volume controls without installing software",
+      "price": "100",
+      "img": "https://asset.msi.com/resize/image/global/product/product_3_20200819142009_5f3cc499e82de.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "keyboards"
+    },
+    {
+      "id": "5",
+      "name": "STEELSERIES APEX PRO MINI",
+      "desc": "Quantum 2.0 wireless with lag-free 2.4 GHz connectivity and Bluetooth 5.0 support",
+      "price": "230",
+      "img": "https://media.steelseriescdn.com/thumbs/catalog/items/64846/32c1fa646be945ed806e8c043f825157.png.350x280_q100_crop-fit_optimize.png",
+      "category": "keyboards"
+    },
+    
+    {
+      "id": "6",
+      "name": "STEELSERIES APEX 3",
+      "desc": "Whisper-quiet gaming switches for up to 20 million keypresses",
+      "price": "50",
+      "img": "https://media.steelseriescdn.com/thumbs/catalogue/products/01160-apex-3/bdc3f08562a94e988898c0f520f82b19.png.350x280_q100_crop-fit_optimize.png",
+      "category": "keyboards"
+    },
+    {
+      "id": "7",
+      "name": "STEELSERIES APEX 5",
+      "desc": "Premium magnetic wrist rest provides full palm support and comfort",
+      "price": "80",
+      "img": "https://media.steelseriescdn.com/thumbs/catalogue/products/01181-apex-5/a820aea929194fe98a126caeeffac566.png.350x280_q100_crop-fit_optimize.png",
+      "category": "keyboards"
+    },
+    {
+      "id": "8",
+      "name": "STEELSERIES APEX 9",
+      "desc": "33% Faster startup,0.2MS Response time,0 Jump",
+      "price": "95",
+      "img": "https://media.steelseriescdn.com/thumbs/catalog/items/64848/1457c6d629b44c9fa73100322da7e74a.png.350x280_q100_crop-fit_optimize.png",
+      "category": "keyboards"
+    },
+    {
+      "id": "9",
+      "name": "MSİ CLUTCH GM41",
+      "desc": "400 IPS and Up to 16000 DPI with A 1ms Polling Rate",
+      "price": "90",
+      "img": "https://asset.msi.com/resize/image/global/product/product_160912997151c43ed033d193ff7fad03d01974beaa.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "mouses"
+    },
+    {
+      "id": "10",
+      "name": "MSİ CLUTCH GM11",
+      "desc": "Stunning RGB lighting with over 7 lighting effects",
+      "price": "120",
+      "img": "https://asset.msi.com/resize/image/global/product/product_1634885774322b42fe3a241cb4e4355345870f25de.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "mouses"
+    },
+    {
+      "id": "11",
+      "name": "MSİ CLUTCH GM20",
+      "desc": "Adjustable Weight Tuning System",
+      "price": "150",
+      "img": "https://asset.msi.com/resize/image/global/product/product_8_20200929174953_5f7303417b8fc.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "mouses"
+    },
+    {
+      "id": "12",
+      "name": "MSI CLUTCH GM08",
+      "desc": "Accurate optical sensor",
+      "price": "50",
+      "img": "https://asset.msi.com/resize/image/global/product/product_2_20200707155652_5f042ac4890ab.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "mouses"
+    },
+    {
+      "id": "13",
+      "name": "MSI IMMERSE GH20",
+      "desc": "Ultra-lightweight For Only 245 Grams",
+      "price": "85",
+      "img": "https://asset.msi.com/resize/image/global/product/product_1610697073523295b1d246b68c422539cd4535162b.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "headphones"
+    },
+    {
+      "id": "14",
+      "name": "MSI IMMERSE GH61",
+      "desc": "Hi-Res Virtual 7.1 Surround Sound",
+      "price": "40",
+      "img": "https://asset.msi.com/resize/image/global/product/product_0_20200925101736_5f6d53407b9a7.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "headphones"
+    },
+    {
+      "id": "15",
+      "name": "MSI DS502",
+      "desc": "Enhanced 40mm High Quality Drivers",
+      "price": "100",
+      "img": "https://asset.msi.com/resize/image/global/product/product_8_20180328133931_5abb2a93942a5.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "headphones"
+    },
+    {
+      "id": "16",
+      "name": "MSI IMMERSE GH50",
+      "desc": "Inline controller for volume, muting mic, 7.1 sound and vibration toggle",
+      "price": "90",
+      "img": "https://asset.msi.com/resize/image/global/product/product_6_20190906132156_5d71ecf41eebb.png62405b38c58fe0f07fcef2367d8a9ba1/400.png",
+      "category": "headphones"
+    },
+    {
+      "id": "17",
+      "name": "ROG STRIX XG27AQ",
+      "desc": "27-inch WQHD (2560 x 1440) FastIPS gaming monitor with ultrafast 170Hz",
+      "price": "300",
+      "img": "https://dlcdnwebimgs.asus.com/gain/13337BAE-5FA7-43FD-B7CE-A9B58DF649EE/w185/fwebp",
+      "category": "monitors"
+    },
+    {
+      "id": "18",
+      "name": "PROART DISPLAY",
+      "desc": "31.5-inch WQHD (2560 x 1440) HDR display with IPS 178° wide viewing angle",
+      "price": "320",
+      "img": "https://dlcdnwebimgs.asus.com/gain/1762ff46-a0c1-46a6-aa06-38ae5900e3cc/w185/fwebp",
+      "category": "monitors"
+    },
+    {
+      "id": "19",
+      "name": "TUF GAMING",
+      "desc": "28-inch UHD (3840 x 2160) Fast IPS gaming monitor with 144 Hz refresh rate",
+      "price": "500",
+      "img": "https://dlcdnwebimgs.asus.com/gain/3f57bbfc-5d04-474f-a95e-b283d4418244/w185/fwebp",
+      "category": "monitors"
+    },
+    {
+      "id": "20",
+      "name": "ROG SWIFT",
+      "desc": "Low Blue Light,360Hz,0.5ms",
+      "price": "2400",
+      "img": "https://dlcdnwebimgs.asus.com/gain/A00C8F15-E127-4AB4-A5F3-B22FF0CB6BC9/w185/fwebp",
+      "category": "monitors"
+    }
+  ]
+}
