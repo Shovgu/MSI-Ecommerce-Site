@@ -8,6 +8,8 @@ Home page:
 
 
 ![nev](https://user-images.githubusercontent.com/114073036/221681942-0a3d3d1d-94ed-45c1-ae8c-a7ac868b38b9.png)
+
+
 Cart page:
 
 
