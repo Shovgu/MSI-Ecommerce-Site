@@ -1,5 +1,5 @@
-import { useEffect } from "react";
-import { BrowserRouter,Route, Routes } from "react-router-dom";
+import React, { useEffect } from "react";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import GlobalStyle from "./GlobalStyles";
 import Cartpage from "./Pages/Cartpage/Cartpage";
@@ -33,12 +33,12 @@ function App() {
     <BrowserRouter>
       <GlobalStyle />
       <Routes>
-        <Route path="/"  element ={<HomePage />} />
-        <Route path="/cart" element ={<Cartpage />} />
-        <Route path="/monitors" element ={<Category />} />
-        <Route path="/headphones" element ={<Category />} />
-        <Route path="/keyboards" element ={<Category />} />
-        <Route path="/mouses" element ={<Category />} />
+        <Route path="/" element={<HomePage />} />
+        <Route path="/cart" element={<Cartpage />} />
+        <Route path="/monitors" element={<Category />} />
+        <Route path="/headphones" element={<Category />} />
+        <Route path="/keyboards" element={<Category />} />
+        <Route path="/mouses" element={<Category />} />
       </Routes>
     </BrowserRouter>
   );
